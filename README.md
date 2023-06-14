@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @rosmena
+- Esta pagina està creada como requerimiento del curso de BA Multiplica, la creè en base a mi pasiòn por los vinos y para dar a conocer la produccion vitivinicola que existe en Tucumàn.
+- La pagina no està terminada por completo debido a inconvenientes tecnicos y de tiempo.
+- Mientras la vaya modificando y agregando codigo la irè subiendo a GitHub.
+- Espero les guste!
+-  
